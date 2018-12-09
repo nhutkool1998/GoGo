@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../app/src/main/java/cs486/nmnhut/gogo/trips.java [app]'" />
-    <option name="defaultScopeName" value="File '.../app/src/main/java/cs486/nmnhut/gogo/trips.java [app]'" />
-    <option name="SEARCH_SCOPE" value="File '.../app/src/main/java/cs486/nmnhut/gogo/trips.java [app]'" />
+    <option name="customScope" value="File '.../app/src/main/java/cs486/nmnhut/gogo/TripDescriptionActivity.java [app]'" />
+    <option name="defaultScopeName" value="File '.../app/src/main/java/cs486/nmnhut/gogo/TripDescriptionActivity.java [app]'" />
+    <option name="SEARCH_SCOPE" value="File '.../app/src/main/java/cs486/nmnhut/gogo/TripDescriptionActivity.java [app]'" />
   </component>
 </application>
